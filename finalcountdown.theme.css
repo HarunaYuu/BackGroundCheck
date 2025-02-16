@@ -9,17 +9,18 @@
     margin-top: 0;
     padding-top: 3px;
     height: 13px;
+    background-color: #111214;
     padding-bottom: 5px;
 }
 
 .platform-win .wordmarkWindows__421ed {
   display: flex;
-  top: -1px;
+  top: -2px;
   color: rgb(0, 255, 242);
 }
 
 .container_fb64c9 /* Missing Create Thread Layer */{
-  background: none;
+  background: none
 }
 
 .scroller__23746,
@@ -267,9 +268,9 @@
 
 #app-mount .layer__960e4 {
     background-color: rgba(0,0,0,.4);
-    top: 30px;
-    right: 5px;
-    left: 5px;
+    top: 43px;
+    right: 20px;
+    left: 20px;
     padding-top: 0;
     overflow: hidden;
     border-radius: 10px;
@@ -2900,7 +2901,7 @@ button.button__67645.enabled__67645:hover {
 .modeSelected__2ea32 .link__2ea32, 
 .modeSelected__2ea32:hover .link__2ea32,
 .listDefault__07f91 .clickable__07f91.selected__07f91 .content__07f91 {
-    background-color: rgba(210, 97, 255, 0.6) !important;
+    background-color: rgba(210, 97, 255, 0.8) !important;
 }
 
 .wrapper__2ea32:hover .link__2ea32,
@@ -2980,7 +2981,7 @@ button.button__67645.enabled__67645:hover {
     background: none;
     border-left: solid;
     border-right: solid;
-    border-color: yellow;
+    border-color: cyan;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
 }
@@ -4390,7 +4391,7 @@ button.button__67645.enabled__67645:hover {
     background-color: transparent;
     border-left: solid;
     border-right: solid;
-    border-color: yellow;
+    border-color: cyan;
 }
 
 .analyticsCard__5931c {
