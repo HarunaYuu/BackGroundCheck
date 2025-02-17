@@ -2958,9 +2958,9 @@ button.button__67645.enabled__67645:hover {
 
 .avatarSpeaking__07f91{position:relative;transition:all .1s ease-in-out}
 
-.voiceUser__07f91 .avatarSpeaking__07f91:after{content:"";position:absolute;height:1.7em;background:linear-gradient(to right, #2780e6 10%, transparent);opacity:.5;transition:all .1s ease-in-out,width .15s ease-in-out;pointer-events:none;z-index:-1;border-radius:999px;border-top-right-radius:0;border-bottom-right-radius:0}
+.voiceUser__07f91 .avatarSpeaking__07f91:after{content:"";position:absolute;height:1.7em;background:linear-gradient(to right, purple 10%, transparent);opacity:.5;transition:all .1s ease-in-out,width .15s ease-in-out;pointer-events:none;z-index:-1;border-radius:999px;border-top-right-radius:0;border-bottom-right-radius:0}
 
-.voiceUser__07f91 .avatarSpeaking__07f91{box-shadow:0 0 0 2px #2780e6,inset 0 0 3px rgba(0,0,0,.5)}
+.voiceUser__07f91 .avatarSpeaking__07f91{box-shadow:0 0 0 2px violet,inset 0 0 3px rgba(0,0,0,.5)}
 
 .voiceUser__07f91 .avatarSpeaking__07f91:after{top:-2px;bottom:-2px;width:150px}
 
@@ -2981,7 +2981,7 @@ button.button__67645.enabled__67645:hover {
     background: none;
     border-left: solid;
     border-right: solid;
-    border-color: cyan;
+    border-color: gold;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
 }
@@ -4391,7 +4391,7 @@ button.button__67645.enabled__67645:hover {
     background-color: transparent;
     border-left: solid;
     border-right: solid;
-    border-color: cyan;
+    border-color: gold;
 }
 
 .analyticsCard__5931c {
